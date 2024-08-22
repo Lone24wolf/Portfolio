@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { BsGithub, BsFacebook, BsTwitter, BsLinkedin } from "react-icons/bs";
+import { BsGithub } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 import { SiCodeforces } from "react-icons/si";
 import Link from "next/link";
